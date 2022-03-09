@@ -1,7 +1,7 @@
-## Hi there 👋, I'm Ivan Lialiuk
+# Hi there 👋, I'm Ivan Lialiuk
 I'm beginner Python developer
 
-# Skills:
+## Skills:
 * Python
 * HTML
 * CSS
