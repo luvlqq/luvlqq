@@ -5,4 +5,3 @@ I'm beginner Python developer
 * Python
 * HTML
 * CSS
-* JS
