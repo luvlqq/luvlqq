@@ -3,5 +3,6 @@ I'm beginner Python developer
 
 ## Skills:
 * Python
+* Django
 * HTML
 * CSS
