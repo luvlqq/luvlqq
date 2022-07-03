@@ -6,3 +6,4 @@ Beginner Django developer.
 * Django
 * HTML
 * CSS
+* PostgreSQL
