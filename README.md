@@ -9,4 +9,4 @@ Beginner Django developer.
 * PostgreSQL
 
 
-![GitHub Stats](https://github-readme-stats.vercel.api username=ohmylual&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ohmylual&theme=radical)
