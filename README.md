@@ -7,3 +7,6 @@ Beginner Django developer.
 * HTML
 * CSS
 * PostgreSQL
+
+
+![GitHub Stats](https://github-readme-stats.vercel.api username=ohmylual&theme=radical)
