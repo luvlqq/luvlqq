@@ -1,6 +1,15 @@
 # Hi there 👋, I'm Ivan Lialiuk
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohmylual&show_icons=true&theme=radical)
 
+
+name: ohmylual
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.classic.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: header, repositories
+  plugin_lines: yes
+
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
