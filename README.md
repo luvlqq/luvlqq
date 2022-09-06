@@ -1,5 +1,8 @@
 # Hi there 👋, I'm Ivan Lialiuk
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohmylual&show_icons=true&theme=radical)
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=ohmylual&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=ohmylual&theme=dark&hide_border=true" width = 400>
+</p>
 
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
