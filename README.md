@@ -1,4 +1,8 @@
-# Hi there 👋, I'm Ivan Lialiuk
+# DjDiva (Ivan Lialiuk)
+
+Hello! I'm backend developer from Hrodno, Belarus.
+
+-----
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=ohmylual&show_icons=true&theme=bear" width = 400>
