@@ -1,4 +1,4 @@
-# DjDiva (Ivan Lialiuk)
+#  DjDiva (Ivan Lialiuk)
 
 Hello! I'm backend developer from Hrodno, Belarus.
 
@@ -9,7 +9,7 @@ Hello! I'm backend developer from Hrodno, Belarus.
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=ohmylual&theme=dark&hide_border=true" width = 400>
 </p>
 
-
+  
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
