@@ -2,6 +2,8 @@
 
 Hello! I'm backend developer from Hrodno, Belarus.
 
+* You can check my [portfolio website](https://ohmylual.github.io/) and see all my projects.
+
 -----
 
 <p align = "center">
