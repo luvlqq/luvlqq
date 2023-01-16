@@ -1,14 +1,14 @@
-#  DjDiva (Ivan Lialiuk)
+#  luvlqq (Ivan Lialiuk)
 
 Hello! I'm backend developer from Hrodno, Belarus.
 
-* You can check my [portfolio website](https://ohmylual.github.io/) and see all my projects.
+* You can check my [portfolio website](https://luvlqq.github.io/) and see all my projects.
 
 -----
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=ohmylual&show_icons=true&theme=bear" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=ohmylual&theme=dark&hide_border=true" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=luvlqq&show_icons=true&theme=bear" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=luvlqq&theme=dark&hide_border=true" width = 400>
 </p>
 
 
