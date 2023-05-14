@@ -2,7 +2,7 @@
 
 Hello! I'm backend developer from Hrodno, Belarus.
 
-* You can check my [portfolio website](https://luvlqq.github.io/) and see all my projects.
+* You can check my [portfolio website](https://luvlqq-dev.vercel.app/) and see all my projects.
 
 -----
 
